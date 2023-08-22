@@ -4,11 +4,11 @@
 
 **`ABOUT ME` > studing BE.CSE <img width="30" src="https://user-images.githubusercontent.com/74038190/219925466-75d83a1e-cb88-4e7b-9c11-6678ce27029f.jpg"/>**
 
-**`SKILLS` > Website Dev (HTML & CSS & JS & BOOTSTRAP)**
+**`SKILLS` > Web Dev (HTML & CSS & JS & BOOTSTRAP)**
 
 **`PROGRAMMING LANGUAGE` > Python**
 
-**`WORKING` > Website Developer <img width="30" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>**
+**`WORKING` > Web Developer <img width="30" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>**
 <hr>
 
 **My Another Github Profile**
