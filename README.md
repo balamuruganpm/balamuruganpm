@@ -41,6 +41,8 @@
 
  ## 📈 My Github Stats!
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=balamuruganpm&show_icons=true&title_color=733&icon_color=393&include_all_commits=true&theme=onedark&cache_seconds=86400)
+
  [![GitHub Streak](https://streak-stats.demolab.com/?user=balamuruganpm)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=balamuruganpm&margin-w=15)](https://github.com/balamuruganpm/github-profile-trophy)
