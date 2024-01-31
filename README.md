@@ -45,4 +45,3 @@
 
  [![GitHub Streak](https://streak-stats.demolab.com/?user=balamuruganpm)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=balamuruganpm&margin-w=15)](https://github.com/balamuruganpm/github-profile-trophy)
