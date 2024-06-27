@@ -21,7 +21,6 @@
 
 <img align="left" width="30" src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png"/>[Email](mailto:balamuruganedsty@gmail.com)
 
-
 <img width="300" align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 # Language Used In Source Codes
@@ -40,20 +39,15 @@
 ![](https://github-profile-trophy.vercel.app/?username=balamuruganpm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=balamuruganpm&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <img align='center' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balamuruganpm&theme=github_dark' />
 
-<br>
-  <img align='center' alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=balamuruganpm&theme=github-dark" />
-<br>
+<img align='center' alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=balamuruganpm&theme=github-dark" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=balamuruganpm&icon=0&color=0)](https://visitcount.itsvg.in)
 
